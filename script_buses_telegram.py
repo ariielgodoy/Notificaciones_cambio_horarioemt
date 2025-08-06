@@ -3,7 +3,7 @@ import requests
 from datetime import datetime
 import time
 
-TOKEN = "8402988545:AAEX_dJF1zEryF5bYe_SXlRyhpDMUsxHsxI"
+TOKEN = ""
 CHAT_ID = "1461875624"
 offset = 0
 
